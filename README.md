@@ -33,9 +33,9 @@ Make sure to install these dependencies before running the project code.
 
 ## Output Screenshot
 
-![output 3](https://github.com/DeepikaA2004/Face-Mask-Detection/assets/110418508/e39dd725-c1ed-4e75-a851-c9ef820f5d3b)
+![output 3](https://github.com/DeepikaA2004/Face-Mask-Detection/assets/110418508/6bbc783b-8bc7-47f4-9de9-6341fd14f9b1)
 
-![output 4](https://github.com/DeepikaA2004/Face-Mask-Detection/assets/110418508/181618dc-f612-42b7-a946-f50f131a0b85)
+![output 4](https://github.com/DeepikaA2004/Face-Mask-Detection/assets/110418508/d51b5ad8-f46b-4fb7-9bc3-85facd96b541)
 
 ## Conclusion
 
