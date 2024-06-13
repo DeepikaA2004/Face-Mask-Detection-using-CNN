@@ -53,5 +53,3 @@ Overall, this project underscores the potential of deep learning and CNNs to con
 
 **MY LINKEDIN PROFILE** - https://www.linkedin.com/in/deepika2004/
 
-
-This project is licensed under the MIT License.
